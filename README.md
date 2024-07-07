@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amansinghyadav9452
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning Java Language as I'm in btech though.
-- 💞️ I’m looking to collaborate on web and app development.
+- 👀 I’m interested in Ethical Hacking 
+- 🌱 I’m currently learning for several programming Languages.
+- 💞️ I’m looking to get into Cybersecurity 
 - 📫 How to reach me : Here is my contact number = 9452252678
 
 <!---
