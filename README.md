@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amansinghyadav9452
+- 👋 Hi, I’m Aman Singh Yadav 
 - 👀 I’m interested in Ethical Hacking 
 - 🌱 I’m currently learning for several programming Languages.
 - 💞️ I’m looking to get into Cybersecurity 
